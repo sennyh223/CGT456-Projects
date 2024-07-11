@@ -1,0 +1,23 @@
+Leave this file here. Do not remove it. 
+Keep this information. Add it to your phone. Email it to yourself. Take a picture. 
+Whatever you need to do to have it handy 
+
+Assignment Submission Location: https://cgtweb2.tech.purdue.edu/courses/cgt356/rjglotz/classApps/SubmitAssignment/index.php 
+Assignment Submission Login: cgt456web1k 
+Assignment Submission Password: Analyzing1k4141 
+
+We will likely use SQL Server. Here is some information for you. 
+Microsoft SQL Server Database Name: zCGT456_huan1669 
+The Microsoft SQL Server database server name is: ecnmssqldev.ecn.purdue.edu 
+There is a KB for reference with sections on how to connect. 
+https://engineering.purdue.edu/ECN/Support/KB/Docs/db115ms 
+
+We may or may not use MySQL. Here is an account for you if we use it. 
+MySQL location: https://engineering.purdue.edu/phpMyAdmin 
+choose goss.tech.purdue.edu from the drop down 
+
+MySQL Database Name: cgt456web1k 
+MySQL Database Login: cgt456web1k 
+MySQL Database Password: Analyzing1k4141 
+
+You may use this same login & password in other places during this class. 

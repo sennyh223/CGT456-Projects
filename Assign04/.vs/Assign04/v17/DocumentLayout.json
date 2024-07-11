@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Assign04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{670E06AA-D3D2-44DA-A45E-A8AC75A1A3DD}|Assign04\\Assign04.csproj|\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\assign04\\assign04\\assign04colorconverter.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assign04ColorConverter.aspx",
+              "DocumentMoniker": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Assign04\\Assign04\\Assign04ColorConverter.aspx",
+              "RelativeDocumentMoniker": "Assign04\\Assign04ColorConverter.aspx",
+              "ToolTip": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Assign04\\Assign04\\Assign04ColorConverter.aspx",
+              "RelativeToolTip": "Assign04\\Assign04ColorConverter.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-31T19:11:09.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

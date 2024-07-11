@@ -1,0 +1,14 @@
+C:\Users\Senny\Documents\Project2Game\Project2Game\bin\Debug\Project2Game.exe.config
+C:\Users\Senny\Documents\Project2Game\Project2Game\bin\Debug\Project2Game.exe
+C:\Users\Senny\Documents\Project2Game\Project2Game\bin\Debug\Project2Game.pdb
+C:\Users\Senny\Documents\Project2Game\Project2Game\obj\Debug\Project2Game.csproj.AssemblyReference.cache
+C:\Users\Senny\Documents\Project2Game\Project2Game\obj\Debug\MainWindow.baml
+C:\Users\Senny\Documents\Project2Game\Project2Game\obj\Debug\MainWindow.g.cs
+C:\Users\Senny\Documents\Project2Game\Project2Game\obj\Debug\App.g.cs
+C:\Users\Senny\Documents\Project2Game\Project2Game\obj\Debug\Project2Game_MarkupCompile.cache
+C:\Users\Senny\Documents\Project2Game\Project2Game\obj\Debug\Project2Game.g.resources
+C:\Users\Senny\Documents\Project2Game\Project2Game\obj\Debug\Project2Game.Properties.Resources.resources
+C:\Users\Senny\Documents\Project2Game\Project2Game\obj\Debug\Project2Game.csproj.GenerateResource.cache
+C:\Users\Senny\Documents\Project2Game\Project2Game\obj\Debug\Project2Game.csproj.CoreCompileInputs.cache
+C:\Users\Senny\Documents\Project2Game\Project2Game\obj\Debug\Project2Game.exe
+C:\Users\Senny\Documents\Project2Game\Project2Game\obj\Debug\Project2Game.pdb

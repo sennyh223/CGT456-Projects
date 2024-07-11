@@ -1,0 +1,29 @@
+﻿
+INSERT INTO Assign05Shoes(Name, Description, Color, Laces)
+
+VALUES('Nike', 'Basketball shoes', 'Red', 'Yes');
+
+INSERT INTO Assign05Shoes(Name, Description, Color, Laces)
+VALUES('Adidas', 'Running shoes', 'Blue', 'Yes');
+
+INSERT INTO Assign05Shoes(Name, Description, Color, Laces)
+VALUES('New Balance', 'Running shoes', 'Black', 'Yes');
+
+INSERT INTO Assign05Shoes(Name, Description, Color, Laces)
+VALUES('Converse', 'Shoes', 'White', 'Yes');
+
+INSERT INTO Assign05Shoes(Name, Description, Color, Laces)
+VALUES('Under Armor', 'Running shoes', 'Green', 'Yes');
+
+UPDATE Assign05Shoes SET Description='Running shoes' WHERE ShoeID=1;
+
+UPDATE Assign05Shoes SET Description='Basketball shoes' WHERE ShoeID=3;
+
+UPDATE Assign05Shoes SET Description='Skateboard shoes' WHERE ShoeID=4;
+
+SELECT * FROM Assign05Shoes;
+SELECT Name FROM Assign05Shoes;
+
+DELETE Assign05Shoes WHERE ShoeID=7;
+
+

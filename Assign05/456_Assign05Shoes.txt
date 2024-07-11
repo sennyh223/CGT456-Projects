@@ -1,0 +1,7 @@
+CREATE TABLE Assign05Shoes(
+	ShoeID int IDENTITY PRIMARY KEY,
+	Name varchar(50),
+	Description varchar(200),
+	Color varchar(25),
+	Laces varchar(5)
+);

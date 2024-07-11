@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17BCFC13-724A-41A3-BCAE-2B2FAE4BF927}|BlackjackGame\\Project1.csproj|\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\project1\\blackjackgame\\bet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BCFC13-724A-41A3-BCAE-2B2FAE4BF927}|BlackjackGame\\Project1.csproj|\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\project1\\blackjackgame\\game.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BCFC13-724A-41A3-BCAE-2B2FAE4BF927}|BlackjackGame\\BlackjackGame.csproj|\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\blackjackgame\\game.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BCFC13-724A-41A3-BCAE-2B2FAE4BF927}|BlackjackGame\\Project1.csproj|\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\project1\\blackjackgame\\draw.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BCFC13-724A-41A3-BCAE-2B2FAE4BF927}|BlackjackGame\\BlackjackGame.csproj|\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\blackjackgame\\draw.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BCFC13-724A-41A3-BCAE-2B2FAE4BF927}|BlackjackGame\\BlackjackGame.csproj|\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\blackjackgame\\lose.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BCFC13-724A-41A3-BCAE-2B2FAE4BF927}|BlackjackGame\\BlackjackGame.csproj|\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\blackjackgame\\game.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BCFC13-724A-41A3-BCAE-2B2FAE4BF927}|BlackjackGame\\BlackjackGame.csproj|\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\blackjackgame\\win.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BCFC13-724A-41A3-BCAE-2B2FAE4BF927}|BlackjackGame\\BlackjackGame.csproj|\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\blackjackgame\\lose.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BCFC13-724A-41A3-BCAE-2B2FAE4BF927}|BlackjackGame\\Project1.csproj|\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\project1\\blackjackgame\\win.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "win.aspx.cs",
+              "DocumentMoniker": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\win.aspx.cs",
+              "RelativeDocumentMoniker": "BlackjackGame\\win.aspx.cs",
+              "ToolTip": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\win.aspx.cs",
+              "RelativeToolTip": "BlackjackGame\\win.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:52:16.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "lose.aspx.cs",
+              "DocumentMoniker": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\lose.aspx.cs",
+              "RelativeDocumentMoniker": "BlackjackGame\\lose.aspx.cs",
+              "ToolTip": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\lose.aspx.cs",
+              "RelativeToolTip": "BlackjackGame\\lose.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:56:14.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "draw.aspx.cs",
+              "DocumentMoniker": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\draw.aspx.cs",
+              "RelativeDocumentMoniker": "BlackjackGame\\draw.aspx.cs",
+              "ToolTip": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\draw.aspx.cs",
+              "RelativeToolTip": "BlackjackGame\\draw.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:06:10.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.aspx.cs",
+              "DocumentMoniker": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\Game.aspx.cs",
+              "RelativeDocumentMoniker": "BlackjackGame\\Game.aspx.cs",
+              "ToolTip": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\Game.aspx.cs",
+              "RelativeToolTip": "BlackjackGame\\Game.aspx.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:57:00.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "draw.aspx",
+              "DocumentMoniker": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\draw.aspx",
+              "RelativeDocumentMoniker": "BlackjackGame\\draw.aspx",
+              "ToolTip": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\draw.aspx",
+              "RelativeToolTip": "BlackjackGame\\draw.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-31T21:05:41.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lose.aspx",
+              "DocumentMoniker": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\lose.aspx",
+              "RelativeDocumentMoniker": "BlackjackGame\\lose.aspx",
+              "ToolTip": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\lose.aspx",
+              "RelativeToolTip": "BlackjackGame\\lose.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-31T20:55:46.776Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 237,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bet.aspx",
+              "DocumentMoniker": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\Bet.aspx",
+              "RelativeDocumentMoniker": "BlackjackGame\\Bet.aspx",
+              "ToolTip": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\Bet.aspx",
+              "RelativeToolTip": "BlackjackGame\\Bet.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-31T22:26:33.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.aspx",
+              "DocumentMoniker": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\Game.aspx",
+              "RelativeDocumentMoniker": "BlackjackGame\\Game.aspx",
+              "ToolTip": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\Game.aspx",
+              "RelativeToolTip": "BlackjackGame\\Game.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-31T22:26:27.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "win.aspx",
+              "DocumentMoniker": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\win.aspx",
+              "RelativeDocumentMoniker": "BlackjackGame\\win.aspx",
+              "ToolTip": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\win.aspx",
+              "RelativeToolTip": "BlackjackGame\\win.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-31T20:47:49.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.aspx",
+              "DocumentMoniker": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\Game.aspx",
+              "RelativeDocumentMoniker": "BlackjackGame\\Game.aspx",
+              "ToolTip": "\\\\ecniisdev.ecn.purdue.edu\\cgt456\\huan1669\\Project1\\BlackjackGame\\Game.aspx",
+              "RelativeToolTip": "BlackjackGame\\Game.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-31T22:01:08.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

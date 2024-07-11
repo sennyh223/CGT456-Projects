@@ -1,0 +1,18 @@
+﻿CREATE TABLE Products_Lab5(
+ProductID     int IDENTITY PRIMARY KEY,
+title         varchar(100),
+authors       varchar(100),
+copyrightDate varchar(6),
+edition       varchar(6),
+isbn          varchar(25),
+coverart      varchar(100),
+description   varchar(100),
+price         varchar(100)
+); 
+
+
+INSERT INTO Products_Lab5(title, authors, copyrightDate, edition, isbn, coverart, description, price) VALUES('Visual Basic .NET How to Program: Second Edition', 	'Harvey M. Deitel, Paul J. Deitel & Tem R. Nieto', 							'2002', 2, '0-13-029363-6', 'vbnethtp2.png', 	'Microsoft Visual Basic .NET', 		76.00);
+INSERT INTO Products_Lab5(title, authors, copyrightDate, edition, isbn, coverart, description, price) VALUES('C++ How to Program: Fourth Edition', 			'Harvey M. Deitel & Paul J. Deitel', 									'2002', 4, '0-13-038474-7', 'cpphtp4.png', 	'Introduces Web Programming with CGI', 	76.00);
+INSERT INTO Products_Lab5(title, authors, copyrightDate, edition, isbn, coverart, description, price) VALUES('C# How to Program: First Edition', 			'Harvey M. Deitel, Paul J. Deitel, Jeff Listfield, Tem R. Nieto, Cheryl Yaeger & Marina Zlatkina', 	'2002', 1, '0-13-062221-4', 'csharphtp1.png', 	'Introduces .NET and Web services', 	76.00);
+
+
